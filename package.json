@@ -1,0 +1,21 @@
+{
+  "name": "apptestes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.7",
+    "@typescript-eslint/parser": "^5.59.7",
+    "eslint": "^8.41.0",
+    "vitest": "^0.31.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
